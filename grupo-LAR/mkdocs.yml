@@ -1,0 +1,11 @@
+site_name: Nuestro primer sitio MKDOCS
+site_url: 
+#En el caso de Github Pages solo se permite asociar la carpeta /docs
+#site_dir: /docs
+#docs_dir: /paginas
+#Implementación de un menú en MKDOCS. Incluyo ejemplo:
+nav:
+ - Laura: laura.md
+ - Alberto: alberto.md
+ - Raúl: raul.md
+theme: readthedocs
