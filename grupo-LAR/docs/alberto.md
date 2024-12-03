@@ -1,0 +1,38 @@
+
+# Hugo Alberto
+
+LO PRIMERO QUE HAREMOS SERA IMPORTAR EL HUGO
+![alt text](imagenes/Captura1.PNG)
+
+INSTALAMOS EL PAQUETE QUE ACABOS DE DESCARGAR
+![alt text](imagenes/Captura2.PNG)
+
+MIRAMOS QUE LA VERSION DE HUGO SEA LA CORRECTA
+![alt text](imagenes/Captura3.PNG)
+
+CREAMOS EL REPOSITORIO CON EL COMANDO "HUGO NEW SITE"
+![alt text](imagenes/Captura4.PNG)
+
+CARGAMOS EL TEMA DE ANANKE
+![alt text](imagenes/Captura5.PNG)
+
+CREAMOS UN POST RELACIONADO CON LO QUE QUEREMOS PONER EN NUESTRO BLOG, EN MI CASO ES SOBRE COMO TENER UN BUEN DIA CON ALEGRIA
+![alt text](imagenes/Captura6.PNG)
+
+SUBIMOS EL SITIO A LOCAL
+![alt text](imagenes/Captura7.PNG)
+
+ESTE ES EL RESULTADO
+![alt text](imagenes/Captura8.PNG)
+
+CREAMOS EL ARCHIVO PARA PODER DESPLEGAR NUESTRA PAGINA EN GITHUB PAGES
+![alt text](imagenes/Captura10.PNG)
+
+ASI SERIA COMO SE VERIA EN GITHUB PAGES
+![alt text](imagenes/Captura11.PNG)
+
+SUBIREMOS NUESTRO SITIO A NETIFLY 
+![alt text](imagenes/Captura12.PNG)
+
+NOS QUEDARA UNA PAGINA TAL QUE ASI: 
+![alt text](imagenes/Captura13.PNG)
