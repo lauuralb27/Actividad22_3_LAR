@@ -4,22 +4,22 @@ MkDocs es una herramienta poderosa y simple para crear documentación estática 
 ##  Actualización del sistema  
 Actualiza los repositorios y paquetes del sistema para garantizar que trabajes con las versiones más recientes. 
 
-![Update-Install](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/apt-get-install.PNG "Actualizar")
+![Update-Install](imagenes/apt-get-install.PNG "Actualizar")
 
 ##  Instalación de Git  
 Instala Git, que será necesario para gestionar proyectos de MkDocs y trabajar con repositorios.  
-![Instalacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/apt-install-git.PNG "Instalacion")
+![Instalacion](imagenes/apt-install-git.PNG "Instalacion")
 
 ##  Instalación de Python y pip  
 Instala Python 3 y su administrador de paquetes pip, herramientas necesarias para manejar dependencias.  
-![Instalacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/apt-install-python3.PNG "Instalacion")
+![Instalacion](imagenes/apt-install-python3.PNG "Instalacion")
 
-![Instalacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/apt-install-python3-dev-python3-pip.PNG "Instalacion")
+![Instalacion](imagenes/apt-install-python3-dev-python3-pip.PNG "Instalacion")
 
 ##  Instalación del módulo de entornos virtuales  
 Configura el módulo que permite crear y gestionar entornos virtuales de Python.  
 
-![Instalacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/apt-install-python3.11-venv.PNG "Instalacion")
+![Instalacion](imagenes/apt-install-python3.11-venv.PNG "Instalacion")
 
 ## Creación de un entorno virtual  
 
@@ -29,44 +29,44 @@ Accede a tu directorio personal o a la ubicación deseada donde crearás el ento
 ### 5.2 Crea un entorno virtual  
 Configura un entorno virtual de Python donde se instalarán las dependencias de MkDocs.  
 
-![Crear](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/python3_-m_venv_my-env.PNG "Crear")
+![Crear](imagenes/python3_-m_venv_my-env.PNG "Crear")
 
 
 ### 5.3 Activa el entorno virtual  
 Activa el entorno para comenzar a instalar dependencias y trabajar en el entorno aislado.  
 
-![Activar](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/source_my-env-bin-activate.PNG "Activar")
+![Activar](imagenes/source_my-env-bin-activate.PNG "Activar")
 
 
 
 ## Instalación de MkDocs  
 Instala MkDocs dentro del entorno virtual para gestionar la documentación de tus proyectos.  
 
-![Instalacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/pip3-install-mkdocs.PNG "Instalacion") 
+![Instalacion](imagenes/pip3-install-mkdocs.PNG "Instalacion") 
 
 ## Verificaciones y comprobaciones  
 
 ### 7.1 Verifica las versiones de Python y pip  
 Asegúrate de que Python y pip están correctamente configurados en tu entorno virtual.  
 
-![Verificacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/python3--version.PNG "Verificacion") 
+![Verificacion](imagenes/python3--version.PNG "Verificacion") 
 
-![Verificacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/pip3--version.PNG "Verificacion") 
+![Verificacion](imagenes/pip3--version.PNG "Verificacion") 
 
 
 ### 7.2 Instala y verifica dependencias adicionales  
 Prueba la instalación de bibliotecas complementarias y lista las dependencias instaladas.  
 
-![Verificacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/pip3-install-requests.PNG "Verificacion") 
+![Verificacion](imagenes/pip3-install-requests.PNG "Verificacion") 
 
-![Verificacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/pip3-list.PNG "Verificacion") 
+![Verificacion](imagenes/pip3-list.PNG "Verificacion") 
 
-![Verificacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/pip3-freeze.PNG "Verificacion") 
+![Verificacion](imagenes/pip3-freeze.PNG "Verificacion") 
 
 ### 7.3 Verifica la instalación de MkDocs  
 Comprueba que MkDocs está correctamente instalado verificando su versión.  
 
-![Verificacion](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/mkdocs--version.PNG "Verificacion") 
+![Verificacion](imagenes/mkdocs--version.PNG "Verificacion") 
 
 ## ¡Instalación completada!  
 Ahora tienes MkDocs instalado y listo para usar. Puedes comenzar a crear tu proyecto y servir la documentación en un navegador.  
@@ -77,17 +77,17 @@ Ahora tienes MkDocs instalado y listo para usar. Puedes comenzar a crear tu proy
 ## Creamos repositorio en Github
 Entramos en gitHub y creamos un repositorio llamado Actividad22_3_LAR
 
-![Repositorio](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/crear-repositorio.PNG "Repositorio") 
+![Repositorio](imagenes/crear-repositorio.PNG "Repositorio") 
 
 ## Creamos grupo LAR
 
-![LAR](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/mkdocs-grupo-lar.PNG "LAR")
+![LAR](imagenes/mkdocs-grupo-lar.PNG "LAR")
 
 ## Configuramos el mkdocs.yml
 
-![LAR](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/mkdocs-yml.PNG "LAR")
+![LAR](imagenes/mkdocs-yml.PNG "LAR")
 
 ## Visualizar la pagina 
 Visualizamos la pagina de mkdocs con el comando mkdocs serve -a y la ip del debian
 
-![LAR](/Actividad22_3_LAR/grupo-LAR/docs/imagenes/mkdocs-serve.PNG "LAR")
+![LAR](imagenes/mkdocs-serve.PNG "LAR")
